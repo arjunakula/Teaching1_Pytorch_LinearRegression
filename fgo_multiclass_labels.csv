@@ -1,0 +1,409 @@
+,full_path,image_name,name,white,red,green,black,blue,purple,gold,silver,gender_Female,gender_Male,region_Asia,region_Egypt,region_Europe,region_Middle East,fighting_type_magic,fighting_type_melee,fighting_type_ranged,alignment_CE,alignment_CG,alignment_CN,alignment_LE,alignment_LG,alignment_LN,alignment_NE,alignment_NG,alignment_TN
+0,images/00a132f16df6f4e94a5d1ddf05ac2d8b.jpg,00a132f16df6f4e94a5d1ddf05ac2d8b.jpg,jalter,1.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+1,images/014 Atalante 2.png,014 Atalante 2.png,atalante,1.0,0.0,1.0,0,0.0,0,0.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,images/0144.jpg,0144.jpg,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+3,images/017 Cu Chulainn 4.png,017 Cu Chulainn 4.png,cu_lancer,0.0,1.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+4,images/0291b4c9bde1530c3c8fac7d01c08d9a.jpg,0291b4c9bde1530c3c8fac7d01c08d9a.jpg,musashi,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+5,images/033 Hans Christian Andersen 1.png,033 Hans Christian Andersen 1.png,hans,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+6,images/0365ad0c0e1fb9b00c40007711fab762.jpg,0365ad0c0e1fb9b00c40007711fab762.jpg,ishtar,1.0,0.0,0.0,1,0.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+7,images/040 Cursed Arm Hassan 3.png,040 Cursed Arm Hassan 3.png,cursed_arm,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+8,images/0523.jpg,0523.jpg,vlad,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+9,images/0623.jpg,0623.jpg,tamamo,0.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+10,images/06e356adef566015ae1ca6283b8d668b--anime-warrior-fate-grand-order.jpg,06e356adef566015ae1ca6283b8d668b--anime-warrior-fate-grand-order.jpg,jeane,0.0,0.0,0.0,0,1.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+11,images/0763.jpg,0763.jpg,mordred,0.0,1.0,0.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+12,images/076c0d3e6a9c7f34b5ec3baf5049daa3.jpg,076c0d3e6a9c7f34b5ec3baf5049daa3.jpg,gawain,0.0,0.0,0.0,1,0.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+13,images/07aa30f5bc48fcee7743e7284767a5f8--fate-king.jpg,07aa30f5bc48fcee7743e7284767a5f8--fate-king.jpg,tristan,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+14,images/0854.jpg,0854.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+15,images/0962.jpg,0962.jpg,dantes,0.0,0.0,1.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+16,images/098 Cu Chulainn (Alter) 3.png,098 Cu Chulainn (Alter) 3.png,cu_beserker,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+17,images/0984.jpg,0984.jpg,cu_beserker,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+18,images/09867cfbfea61d407287086d4047f11b.jpg,09867cfbfea61d407287086d4047f11b.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+19,images/0cbad7829c662d128eee2dd64cbdc190.jpg,0cbad7829c662d128eee2dd64cbdc190.jpg,saber,1.0,0.0,0.0,0,1.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+20,images/0d5c845e15a82b6cd90aaeeb5efd28771749b642_00.jpg,0d5c845e15a82b6cd90aaeeb5efd28771749b642_00.jpg,xuanzang,1.0,0.0,0.0,0,0.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+21,images/0d9ecf35550374309606d92f2e33bf6e.jpg,0d9ecf35550374309606d92f2e33bf6e.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+22,images/0defe15146155708d28195cff615d18b--ears-anime-art.jpg,0defe15146155708d28195cff615d18b--ears-anime-art.jpg,atalante,0.0,0.0,1.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+23,images/1093.jpg,1093.jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+24,images/112 Shuten Douji 1.png,112 Shuten Douji 1.png,shunten,1.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+25,images/1132.jpg,1132.jpg,xuanzang,1.0,0.0,0.0,0,0.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+26,images/1133.jpg,1133.jpg,xuanzang,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+27,images/11821821_1893471750877238_1781599398_n.jpg,11821821_1893471750877238_1781599398_n.jpg,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+28,images/1203.jpg,1203.jpg,nitocris,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+29,images/1213.jpg,1213.jpg,lancelot,0.0,0.0,0.0,0,1.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+30,images/1241.jpg,1241.jpg,serenity,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+31,images/13-F06-11-23.jpg,13-F06-11-23.jpg,kojiro,0.0,0.0,0.0,0,1.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+32,images/1393.jpg,1393.jpg,cleo,1.0,0.0,1.0,0,0.0,0,0.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+33,images/1424.jpg,1424.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+34,images/1473429450_sample_9c105ae3ae56eaf5630153e458a47103.jpg,1473429450_sample_9c105ae3ae56eaf5630153e458a47103.jpg,scatthach,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+35,images/1484369683_Hans4.png,1484369683_Hans4.png,hans,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+36,images/1494632458_88b04798640bb0451649f43a4d6dd505.jpg,1494632458_88b04798640bb0451649f43a4d6dd505.jpg,scatthach,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+37,images/1498961593129.png,1498961593129.png,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+38,images/1501.jpg,1501.jpg,merlin,1.0,0.0,0.0,1,0.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+39,images/1517.jpg,1517.jpg,arash,0.0,0.0,1.0,0,0.0,0,1.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+40,images/1519284265.priestessshizuka_arturiachan.jpg,1519284265.priestessshizuka_arturiachan.jpg,saber,1.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+41,images/1523643504_thumb-1920-786887.png,1523643504_thumb-1920-786887.png,jalter,1.0,0.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+42,images/1533.jpg,1533.jpg,musashi,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+43,images/1542.jpg,1542.jpg,hassan,0.0,0.0,0.0,1,1.0,0,1.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+44,images/15e52e673826b91d3105279446cd3493.jpg,15e52e673826b91d3105279446cd3493.jpg,tristan,1.0,1.0,0.0,0,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+45,images/16e6f70e6875f63e2bb85fc112983a8d.jpg,16e6f70e6875f63e2bb85fc112983a8d.jpg,arunja,1.0,0.0,0.0,0,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+46,images/1939e1d77ec5b8c571892c4645528ed7.jpg,1939e1d77ec5b8c571892c4645528ed7.jpg,nitocris,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+47,images/1caefaeaf73902bf7cdd985bcda14001.jpg,1caefaeaf73902bf7cdd985bcda14001.jpg,okita,1.0,0.0,0.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+48,images/1d6a76a8f7451b8a266920551f23f1e7.jpg,1d6a76a8f7451b8a266920551f23f1e7.jpg,xuanzang,1.0,0.0,0.0,0,0.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+49,images/1zfec2p56gj11.png,1zfec2p56gj11.png,mordred,0.0,1.0,0.0,0,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+50,images/20621751_1548066675243383_5575791424459604099_n.jpg,20621751_1548066675243383_5575791424459604099_n.jpg,jeane,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+51,images/20a8611f76f68521c3357c32bb6aaffdc4a12c5bv2_00.jpg,20a8611f76f68521c3357c32bb6aaffdc4a12c5bv2_00.jpg,musashi,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+52,images/21ece4760d92220f342a1294c5770984.jpg,21ece4760d92220f342a1294c5770984.jpg,medea,0.0,0.0,0.0,1,0.0,1,0.0,1.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+53,images/22a.jpg,22a.jpg,jeane,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+54,images/2303d3e3a2dc9f8f05cab77b5d9d629c811f664f_00.jpg,2303d3e3a2dc9f8f05cab77b5d9d629c811f664f_00.jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55,images/25pSlnt.jpg,25pSlnt.jpg,serenity,0.0,0.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+56,images/275723a221a562923fb14ef082a515c1.png,275723a221a562923fb14ef082a515c1.png,dantes,0.0,0.0,1.0,1,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+57,images/27cd614ecad7689eb63ae483e39de020.jpg,27cd614ecad7689eb63ae483e39de020.jpg,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+58,images/285leIA.png,285leIA.png,rama,0.0,1.0,0.0,0,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+59,images/29946-11203302.png,29946-11203302.png,liz,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+60,images/29946-722119535.jpg,29946-722119535.jpg,cleo,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+61,images/2bc5a4838648a52a7ea1c5ad1dfc867a.jpg,2bc5a4838648a52a7ea1c5ad1dfc867a.jpg,arunja,1.0,0.0,0.0,0,0.0,1,1.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+62,images/2c07c2b133311fa6fc9f586b3a89e832.jpg,2c07c2b133311fa6fc9f586b3a89e832.jpg,liz,0.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+63,images/2c574a840e21056452fa7b6f8ca6304f.jpg,2c574a840e21056452fa7b6f8ca6304f.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+64,images/2c9b8b335a8d84b42157a62360374a5f.png,2c9b8b335a8d84b42157a62360374a5f.png,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+65,images/2e8179c7e7e24b8f1e7f86bca6bc8638.jpg,2e8179c7e7e24b8f1e7f86bca6bc8638.jpg,arunja,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+66,images/300px-Portrait_Servant_075_4.png,300px-Portrait_Servant_075_4.png,jack,1.0,0.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+67,images/300px-Portrait_Servant_112_2.png,300px-Portrait_Servant_112_2.png,shunten,1.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+68,images/300px-Sprite_Servant_031_2.png,300px-Sprite_Servant_031_2.png,medea,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+69,images/333655.jpg,333655.jpg,jeane,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+70,images/338136.jpg,338136.jpg,jalter,1.0,0.0,0.0,0,1.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+71,images/338cc2086d1ec06d53410dd63f329a0d.jpg,338cc2086d1ec06d53410dd63f329a0d.jpg,tristan,0.0,1.0,1.0,0,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+72,images/3757439-4215136539-moe-c.jpg,3757439-4215136539-moe-c.jpg,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+73,images/3b45543ebba98e587ef6d50454acc192.jpg,3b45543ebba98e587ef6d50454acc192.jpg,lancelot,0.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+74,images/3dcb9ca916d6a21821eba38a3e36636c.jpg,3dcb9ca916d6a21821eba38a3e36636c.jpg,musashi,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+75,images/3e9308c437da93dbc9466d9b130fffa4.jpg,3e9308c437da93dbc9466d9b130fffa4.jpg,saber,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+76,images/3fd64a10e93a7a78c12573cd977605fd.jpg,3fd64a10e93a7a78c12573cd977605fd.jpg,serenity,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+77,images/425885e1d713915843b7a7746ecde37a1461255501_large.png,425885e1d713915843b7a7746ecde37a1461255501_large.png,salter,1.0,0.0,0.0,0,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+78,images/4357edc6495693e6a207fc43c0f3c6fe.jpg,4357edc6495693e6a207fc43c0f3c6fe.jpg,jack,1.0,0.0,1.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+79,images/471fdf1f706bc84a2807bbc567e752c5.jpg,471fdf1f706bc84a2807bbc567e752c5.jpg,vlad,0.0,0.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+80,images/484d7aec10184aa0d975e19d6456c870.png,484d7aec10184aa0d975e19d6456c870.png,hans,1.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+81,images/51JGnh2E-PL.jpg,51JGnh2E-PL.jpg,jeane,0.0,0.0,0.0,0,0.0,1,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+82,images/51m967KuHIL.jpg,51m967KuHIL.jpg,saber,0.0,0.0,0.0,0,1.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+83,images/5249366155ea108ee77ecfb8dd997155--fate-grand-order-merlin-type-moon.jpg,5249366155ea108ee77ecfb8dd997155--fate-grand-order-merlin-type-moon.jpg,merlin,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+84,images/541974e98316785e032eb1697e492360.jpg,541974e98316785e032eb1697e492360.jpg,hassan,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+85,images/5d95a9cd44baa3f9cc6a32c14fbc9c78.jpg,5d95a9cd44baa3f9cc6a32c14fbc9c78.jpg,nero,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+86,images/6095634-4584636004-b458a.jpg,6095634-4584636004-b458a.jpg,vlad,0.0,0.0,0.0,1,1.0,0,1.0,0.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+87,images/60uGUz0.png,60uGUz0.png,saber,1.0,0.0,0.0,0,1.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+88,images/64729f4395cc98f015ac8ec7a4d22c11.jpg,64729f4395cc98f015ac8ec7a4d22c11.jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+89,images/65af91760df5221d3c5f1296274d6e78.jpg,65af91760df5221d3c5f1296274d6e78.jpg,okita,1.0,0.0,1.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+90,images/666f03ba0b5a8afa462840b30e018c68.jpg,666f03ba0b5a8afa462840b30e018c68.jpg,nero,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+91,images/66c874a582c108bf435451fe1847958b.jpg,66c874a582c108bf435451fe1847958b.jpg,nero,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+92,images/684012.jpg,684012.jpg,okita,1.0,0.0,1.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+93,images/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f746c6c766c39435842416c7474413d3d2d3539323933343937392e3135336537376436373261613465646437343235333.jpg,68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f746c6c766c39435842416c7474413d3d2d3539323933343937392e3135336537376436373261613465646437343235333.jpg,xuanzang,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+94,images/68da118d5d6636297b3caac537ae996743a3d3f3_hq.jpg,68da118d5d6636297b3caac537ae996743a3d3f3_hq.jpg,cleo,1.0,0.0,1.0,0,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+95,images/69d5c86f9e8b6406da56f00c180a5d93.jpg,69d5c86f9e8b6406da56f00c180a5d93.jpg,cu_beserker,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+96,images/6cb109432de1c728c6760b4175d97677.jpg,6cb109432de1c728c6760b4175d97677.jpg,dantes,0.0,0.0,1.0,1,0.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+97,images/6d9c33586408692d2bd174d79a830eef.png,6d9c33586408692d2bd174d79a830eef.png,cu_beserker,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+98,images/6e9088de15db47a572fd022d60cb4358--character-reference-character-design.jpg,6e9088de15db47a572fd022d60cb4358--character-reference-character-design.jpg,atalante,0.0,1.0,0.0,1,1.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+99,images/6f083500d996ed4942221708d5e27ff8.jpg,6f083500d996ed4942221708d5e27ff8.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+100,images/6f3191a75d8355be86b1151480196d63--type-moon-fate-grand-order-jack-the-ripper.jpg,6f3191a75d8355be86b1151480196d63--type-moon-fate-grand-order-jack-the-ripper.jpg,jack,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+101,images/703283.jpg,703283.jpg,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+102,images/71llV7MtBEL._UL1283_.jpg,71llV7MtBEL._UL1283_.jpg,okita,1.0,0.0,1.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+103,images/71qpVeyqo9L._SX425_.jpg,71qpVeyqo9L._SX425_.jpg,jeane,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+104,images/7337e704d4c189670169327c11fc1de6.jpg,7337e704d4c189670169327c11fc1de6.jpg,scatthach,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+105,images/7749cd3047603be83b0ba3ae6b75de14.jpg,7749cd3047603be83b0ba3ae6b75de14.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+106,images/790428.png,790428.png,hassan,0.0,0.0,0.0,1,1.0,1,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+107,images/7ef8d245ab4e62fc72af3efef675ed1b--fate-moon.jpg,7ef8d245ab4e62fc72af3efef675ed1b--fate-moon.jpg,hans,0.0,0.0,1.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+108,images/7f8adcef669493f506453efa58d2bfab.jpg,7f8adcef669493f506453efa58d2bfab.jpg,serenity,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+109,images/81c6da816a2df0860cd780585260a5922d8618a3_hq.jpg,81c6da816a2df0860cd780585260a5922d8618a3_hq.jpg,cu_beserker,0.0,1.0,0.0,0,0.0,1,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+110,images/81G0Q3tBruL._SY741_.jpg,81G0Q3tBruL._SY741_.jpg,dantes,0.0,1.0,1.0,0,0.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+111,images/81tD7p39H4L._SY741_.jpg,81tD7p39H4L._SY741_.jpg,shunten,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+112,images/8227c7e1c504f5361afccfae34c443cd.jpg,8227c7e1c504f5361afccfae34c443cd.jpg,gawain,0.0,0.0,0.0,1,0.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+113,images/83b1f2379820b5373e4fb25eccc1bf87.png,83b1f2379820b5373e4fb25eccc1bf87.png,giles,0.0,0.0,0.0,0,1.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+114,images/83d1ec3acfe24f85022e71e866e4b1e3--fate-grand-order-series.jpg,83d1ec3acfe24f85022e71e866e4b1e3--fate-grand-order-series.jpg,tristan,1.0,1.0,0.0,0,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+115,images/841907.jpg,841907.jpg,jalter,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+116,images/86.jpg,86.jpg,nitocris,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+117,images/89d8dd034a588fb8198ddc740a84ec2d1460385951_large.png,89d8dd034a588fb8198ddc740a84ec2d1460385951_large.png,jalter,1.0,0.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+118,images/8b4877201289b3b53192d7caddb81bc2.jpg,8b4877201289b3b53192d7caddb81bc2.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+119,images/8d5fde991026b80c48b72ae3bfa3cf7b.jpg,8d5fde991026b80c48b72ae3bfa3cf7b.jpg,merlin,1.0,1.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+120,images/9325e4cc87bdf13686ae6710a44813ef.jpg,9325e4cc87bdf13686ae6710a44813ef.jpg,oz,0.0,0.0,1.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+121,images/953c7f0dbc92e3df4acb6baab23ba88a.jpg,953c7f0dbc92e3df4acb6baab23ba88a.jpg,scatthach,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+122,images/95bbc4f32915057fbd9103d1723d9fed.png,95bbc4f32915057fbd9103d1723d9fed.png,rama,1.0,1.0,0.0,0,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+123,images/98806.jpg,98806.jpg,scatthach,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+124,images/98d5b01002516b02f0b5e20ffe19d5fb.jpg,98d5b01002516b02f0b5e20ffe19d5fb.jpg,karna,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+125,images/99cd1d9a2b5c33fcdca6fe9ca2a849e9f42edcadv2_00.jpg,99cd1d9a2b5c33fcdca6fe9ca2a849e9f42edcadv2_00.jpg,cleo,1.0,0.0,1.0,1,0.0,0,0.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+126,images/9b5b30adeb10540e206dc3a5914a8d01.png,9b5b30adeb10540e206dc3a5914a8d01.png,nitocris,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+127,images/9c129fd8ea70a5be351661ebf36fa7516a18b47d_00.jpg,9c129fd8ea70a5be351661ebf36fa7516a18b47d_00.jpg,cleo,1.0,0.0,1.0,0,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+128,images/9c6fd0f8532a1f63f46f2d14ec8a48bb.jpg,9c6fd0f8532a1f63f46f2d14ec8a48bb.jpg,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+129,images/9fd3b713d4544c59d1c7384b3569d4b3 (1).jpg,9fd3b713d4544c59d1c7384b3569d4b3 (1).jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+130,images/9fd3b713d4544c59d1c7384b3569d4b3.jpg,9fd3b713d4544c59d1c7384b3569d4b3.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+131,images/a11fb34622646cb510916a2d9c342749.jpg,a11fb34622646cb510916a2d9c342749.jpg,robin,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+132,images/a332763e98ef42e71727153cfd3503ad.jpg,a332763e98ef42e71727153cfd3503ad.jpg,kojiro,1.0,0.0,0.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+133,images/a380cd655eb6a23e090194b5aa953adb.jpg,a380cd655eb6a23e090194b5aa953adb.jpg,tamamo,0.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+134,images/ac053c0668c1e3e7ffdb4c113654c73b035ab030_hq.jpg,ac053c0668c1e3e7ffdb4c113654c73b035ab030_hq.jpg,salter,0.0,1.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+135,images/Alter1.png,Alter1.png,salter,0.0,1.0,0.0,1,1.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+136,images/Alter3.png,Alter3.png,salter,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+137,images/Alter4.png,Alter4.png,salter,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+138,images/anime-fateapocrypha-24216.jpg,anime-fateapocrypha-24216.jpg,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+139,images/apple-kun-1500.jpg,apple-kun-1500.jpg,musashi,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+140,images/Arashnew1.png,Arashnew1.png,arash,0.0,1.0,1.0,0,1.0,0,1.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+141,images/archer-ishtar--2.16.jpg,archer-ishtar--2.16.jpg,ishtar,0.0,0.0,0.0,1,0.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+142,images/archer-robin-hood-fate-extella-link-1.92.jpg,archer-robin-hood-fate-extella-link-1.92.jpg,robin,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+143,images/Archer.(Fate.Grand.Order).full.2076596.jpg,Archer.(Fate.Grand.Order).full.2076596.jpg,arunja,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+144,images/Archer.(Ishtar).full.2272421.jpg,Archer.(Ishtar).full.2272421.jpg,ishtar,1.0,0.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+145,images/Archer.(Tristan).full.2051609.jpg,Archer.(Tristan).full.2051609.jpg,tristan,1.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+146,images/Archer.(Tristan).full.2075893.jpg,Archer.(Tristan).full.2075893.jpg,tristan,1.0,0.0,0.0,1,0.0,0,1.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+147,images/ArcherArashGOStage1.png,ArcherArashGOStage1.png,arash,0.0,1.0,1.0,0,1.0,0,1.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+148,images/ArcherTristanStage1.jpg,ArcherTristanStage1.jpg,tristan,1.0,0.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+149,images/Archer_(Arash)_Stage4.png,Archer_(Arash)_Stage4.png,arash,0.0,0.0,1.0,0,1.0,0,1.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+150,images/Archer_(Robin_Hood)_Stage3.png,Archer_(Robin_Hood)_Stage3.png,robin,0.0,0.0,1.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+151,images/Arjuna1.png,Arjuna1.png,arunja,1.0,1.0,0.0,0,0.0,1,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+152,images/Artoria!.png,Artoria!.png,saber,1.0,0.0,0.0,0,1.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+153,images/artoria_saber.png,artoria_saber.png,saber,1.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+154,images/Assassin.(Cleopatra).full.2356276.png,Assassin.(Cleopatra).full.2356276.png,cleo,0.0,0.0,1.0,1,0.0,0,0.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+155,images/Assassin.(EMIYA).600.2195302.jpg,Assassin.(EMIYA).600.2195302.jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+156,images/Assassin.(EMIYA).full.2070032.jpg,Assassin.(EMIYA).full.2070032.jpg,emiya_assassin,0.0,1.0,1.0,0,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+157,images/Assassin.(Fate.stay.night).full.182178.jpg,Assassin.(Fate.stay.night).full.182178.jpg,kojiro,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+158,images/Assassin.(Fate.stay.night).full.1958378.jpg,Assassin.(Fate.stay.night).full.1958378.jpg,kojiro,0.0,0.0,0.0,1,0.0,1,0.0,1.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+159,images/AssassinShutenDoujiStage1.png,AssassinShutenDoujiStage1.png,shunten,0.0,1.0,0.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+160,images/Assassin_(Hassan-i-Sabbah)_(Fatestay_night)_Stage1.png,Assassin_(Hassan-i-Sabbah)_(Fatestay_night)_Stage1.png,cursed_arm,0.0,0.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+161,images/Atalanta1.png,Atalanta1.png,atalante,0.0,0.0,1.0,1,1.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+162,images/avenger8.jpg,avenger8.jpg,dantes,0.0,0.0,1.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+163,images/avenger7.jpg,avenger7.jpg,dantes,0.0,0.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+164,images/Avenger6.jpg,Avenger6.jpg,dantes,0.0,0.0,1.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+165,images/az9E1WK_700b.jpg,az9E1WK_700b.jpg,arash,0.0,1.0,1.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+166,images/b1b028b2046dcf63dc00580525aeb3dc.png,b1b028b2046dcf63dc00580525aeb3dc.png,gawain,0.0,0.0,0.0,1,1.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+167,images/b292230f801f1f2b8a27e7f0ffd9b673.jpg,b292230f801f1f2b8a27e7f0ffd9b673.jpg,cu_beserker,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+168,images/b315a881eb60ea42e2e628a0794c575d4305c69a_00.jpg,b315a881eb60ea42e2e628a0794c575d4305c69a_00.jpg,kojiro,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+169,images/b323c7f55c2ea82b1fa49b957eedd1c3.jpg,b323c7f55c2ea82b1fa49b957eedd1c3.jpg,gawain,0.0,0.0,0.0,1,0.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+170,images/b3b5e8c823d3c7f2fce7e0dedf5c352c2903e310_hq.jpg,b3b5e8c823d3c7f2fce7e0dedf5c352c2903e310_hq.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+171,images/b45001e19a75758c651a365edda9d1e8.jpg,b45001e19a75758c651a365edda9d1e8.jpg,musashi,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+172,images/b7b986b299465aa8607a5ceaa4b4fcf1.png,b7b986b299465aa8607a5ceaa4b4fcf1.png,robin,0.0,0.0,1.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+173,images/b7cd3c4f417338a31f42bae88aad1b8117835c5b_00.jpg,b7cd3c4f417338a31f42bae88aad1b8117835c5b_00.jpg,nitocris,1.0,0.0,0.0,0,1.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+174,images/b7d3bbe90a481bf2de774578b433eb90.jpg,b7d3bbe90a481bf2de774578b433eb90.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+175,images/bafc29690bca9aa7642d115deb4a221a.jpg,bafc29690bca9aa7642d115deb4a221a.jpg,merlin,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+176,images/bb872dcd8322ce68a43d08f85e9f7e59.png,bb872dcd8322ce68a43d08f85e9f7e59.png,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+177,images/beverley-yim-gawain.jpg,beverley-yim-gawain.jpg,gawain,0.0,0.0,0.0,1,0.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+178,images/Black.Assassin.240.1966507.jpg,Black.Assassin.240.1966507.jpg,jack,0.0,0.0,0.0,1,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+179,images/Black.Assassin.full.2073916.jpg,Black.Assassin.full.2073916.jpg,jack,0.0,0.0,0.0,1,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+180,images/boobs_Fate_Grand_Order_Nitocris_Fate_Grand_Order_purple_eyes_purple_hair-1153127.jpg!d,boobs_Fate_Grand_Order_Nitocris_Fate_Grand_Order_purple_eyes_purple_hair-1153127.jpg!d,nitocris,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+181,images/bp0CPhV.png,bp0CPhV.png,jack,1.0,0.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+182,images/bs-3vqu000lam-002.jpg,bs-3vqu000lam-002.jpg,rama,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+183,images/bs-3vqu000lam-014.jpg,bs-3vqu000lam-014.jpg,robin,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+184,images/c0bfc0121730484025648c52c849f400151ebecfv2_00.jpg,c0bfc0121730484025648c52c849f400151ebecfv2_00.jpg,cursed_arm,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+185,images/c4b525a2a489249128e96519fbcaf369.jpg,c4b525a2a489249128e96519fbcaf369.jpg,mordred,0.0,1.0,0.0,0,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+186,images/c54bf73f915691ac8d93279583dadbdc.png,c54bf73f915691ac8d93279583dadbdc.png,salter,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+187,images/c85dbbfeb534793e2f90e3e3364b5e0b.jpg,c85dbbfeb534793e2f90e3e3364b5e0b.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+188,images/ca09b08b4adec2db65488de5ea86b27e.png,ca09b08b4adec2db65488de5ea86b27e.png,musashi,0.0,1.0,0.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+189,images/ca2f7881fabe3871108447ea91ffe7a91a65b971_00.jpg,ca2f7881fabe3871108447ea91ffe7a91a65b971_00.jpg,kojiro,1.0,0.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+190,images/ca566b4f565f8519138304b512e76341.jpg,ca566b4f565f8519138304b512e76341.jpg,tamamo,0.0,0.0,0.0,1,1.0,1,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+191,images/caster-gilles-de-rais--4.1.jpg,caster-gilles-de-rais--4.1.jpg,giles,0.0,1.0,0.0,0,0.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+192,images/caster-header.jpg,caster-header.jpg,medea,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+193,images/Castercardborder1.png,Castercardborder1.png,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+194,images/CasterMedeaGOStage2 (1).png,CasterMedeaGOStage2 (1).png,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+195,images/CasterMedeaGOStage2.png,CasterMedeaGOStage2.png,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+196,images/CasterNitocrisStage3.jpg,CasterNitocrisStage3.jpg,nitocris,1.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+197,images/CasterXuanzangStage2.png,CasterXuanzangStage2.png,xuanzang,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+198,images/Caster_(Hans_Christian_Andersen)_Stage2.png,Caster_(Hans_Christian_Andersen)_Stage2.png,hans,0.0,0.0,1.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+199,images/Caster_(Hans_Christian_Andersen)_Stage3.png,Caster_(Hans_Christian_Andersen)_Stage3.png,hans,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+200,images/CE629.png,CE629.png,cursed_arm,1.0,0.0,0.0,1,0.0,0,1.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+201,images/CleopatraStage1.png,CleopatraStage1.png,cleo,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+202,images/cleopatra_fate_grand_order_and_fate_series_drawn_by_inanome_me__sample-47f380f932a60adb7998966c9442e090.jpg,cleopatra_fate_grand_order_and_fate_series_drawn_by_inanome_me__sample-47f380f932a60adb7998966c9442e090.jpg,cleo,1.0,0.0,0.0,1,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+203,images/com.kawaii.okita.png,com.kawaii.okita.png,okita,0.0,0.0,1.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+204,images/cu-chulainn-alter.jpg,cu-chulainn-alter.jpg,cu_beserker,0.0,1.0,0.0,0,0.0,1,0.0,1.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+205,images/CuAlter1.png,CuAlter1.png,cu_beserker,0.0,1.0,0.0,0,0.0,1,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+206,images/Cuchulainn1.png,Cuchulainn1.png,cu_lancer,0.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+207,images/Cu_Alter_fanart.jpg,Cu_Alter_fanart.jpg,cu_beserker,0.0,0.0,0.0,1,0.0,1,0.0,1.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+208,images/d05cb38c54e5613de94c7c2874b0dd78.png,d05cb38c54e5613de94c7c2874b0dd78.png,cursed_arm,0.0,1.0,0.0,1,0.0,1,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+209,images/d1a6dd04a63639ddcc3f1c0ed624a30300c73c40_hq.jpg,d1a6dd04a63639ddcc3f1c0ed624a30300c73c40_hq.jpg,shunten,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+210,images/d1e08f390119a9e61c753e79a2fdd76a.jpg,d1e08f390119a9e61c753e79a2fdd76a.jpg,musashi,0.0,1.0,0.0,1,0.0,1,1.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+211,images/d4df66c8eca1ac2e310e3295bee118cb.jpg,d4df66c8eca1ac2e310e3295bee118cb.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+212,images/d5481f6f9fb6672b988aab629939bb51.png,d5481f6f9fb6672b988aab629939bb51.png,musashi,0.0,1.0,0.0,0,1.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+213,images/d62fa5794b5ee1c10bb5e5d76e0fa1d8.jpg,d62fa5794b5ee1c10bb5e5d76e0fa1d8.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+214,images/d72284072f0180c71c9b662e22058cad.jpg,d72284072f0180c71c9b662e22058cad.jpg,tristan,1.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+215,images/d8003f96ffe91256eb155ba18afc5aa0.jpg,d8003f96ffe91256eb155ba18afc5aa0.jpg,xuanzang,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+216,images/d94de06dc60d3704be48acda374959f4.png,d94de06dc60d3704be48acda374959f4.png,arunja,1.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+217,images/DBD8PucWAAM5d8k.jpg,DBD8PucWAAM5d8k.jpg,serenity,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+218,images/dcaddc3e153028c710de870d352eb4ef1451786044_large.jpg,dcaddc3e153028c710de870d352eb4ef1451786044_large.jpg,arunja,1.0,0.0,0.0,0,0.0,1,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+219,images/de8e24dc6ba36ee998b1692f9d8021f2.jpg,de8e24dc6ba36ee998b1692f9d8021f2.jpg,vlad,0.0,0.0,0.0,1,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+220,images/DeRais1.png,DeRais1.png,giles,0.0,1.0,0.0,1,1.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+221,images/df1575888d188cf493e78cb2abff8f6f.jpg,df1575888d188cf493e78cb2abff8f6f.jpg,xuanzang,1.0,0.0,0.0,0,1.0,1,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+222,images/DLXImfy.png,DLXImfy.png,giles,0.0,0.0,0.0,0,1.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+223,images/DmJZPLxVsAA9YGz.jpg,DmJZPLxVsAA9YGz.jpg,tristan,1.0,1.0,0.0,0,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+224,images/download (1).jpg,download (1).jpg,salter,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+225,images/download (10).jpg,download (10).jpg,lancelot,0.0,0.0,0.0,0,0.0,1,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+226,images/download (11).jpg,download (11).jpg,saber,0.0,0.0,0.0,0,1.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+227,images/download (12).jpg,download (12).jpg,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+228,images/download (2).jpg,download (2).jpg,dantes,0.0,0.0,1.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+229,images/download (3).jpg,download (3).jpg,arunja,1.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+230,images/download (4).jpg,download (4).jpg,rama,1.0,1.0,0.0,0,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+231,images/download (5).jpg,download (5).jpg,karna,1.0,0.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+232,images/download (6).jpg,download (6).jpg,jack,0.0,0.0,0.0,1,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+233,images/download (7).jpg,download (7).jpg,vlad,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+234,images/download (8).jpg,download (8).jpg,liz,1.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+235,images/download (9).jpg,download (9).jpg,lancelot,0.0,0.0,0.0,0,1.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+236,images/download.jpg,download.jpg,saber,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+237,images/DQsxUpoXcAAEFoh.jpg,DQsxUpoXcAAEFoh.jpg,ishtar,0.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+238,images/DYDYpIlU0AAfX86.jpg,DYDYpIlU0AAfX86.jpg,serenity,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+239,images/e175dd04bad834acfb8ce201751cdb91--fate-grand-order-alternative.jpg,e175dd04bad834acfb8ce201751cdb91--fate-grand-order-alternative.jpg,cu_beserker,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+240,images/e2d748233fcb5a38e5145029f1762234.jpg,e2d748233fcb5a38e5145029f1762234.jpg,shunten,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+241,images/e563dc9262aeaf528c5a14518a376106.png,e563dc9262aeaf528c5a14518a376106.png,cursed_arm,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+242,images/e701c08776269fbefec0db7400f11a26bbcf4b4c_00.jpg,e701c08776269fbefec0db7400f11a26bbcf4b4c_00.jpg,saber,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+243,images/e9f4ae1077c084c8587b57b002a0afe0.png,e9f4ae1077c084c8587b57b002a0afe0.png,hassan,0.0,0.0,0.0,1,1.0,1,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+244,images/Edmond1.png,Edmond1.png,dantes,0.0,1.0,1.0,0,0.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+245,images/ElizabethB1.png,ElizabethB1.png,liz,1.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+246,images/f09919b752a0b896c85eedb3972358d24d85fcaa.jpg,f09919b752a0b896c85eedb3972358d24d85fcaa.jpg,salter,0.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+247,images/f1b960d804af87ccb8c00b4580d62bee.jpg,f1b960d804af87ccb8c00b4580d62bee.jpg,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+248,images/f483aea3531b426e7c4a304786b896c5 (1).jpg,f483aea3531b426e7c4a304786b896c5 (1).jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+249,images/f483aea3531b426e7c4a304786b896c5.jpg,f483aea3531b426e7c4a304786b896c5.jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+250,images/f662407daf19bda3e439533a5c640e5b1469637586_full.jpg,f662407daf19bda3e439533a5c640e5b1469637586_full.jpg,gawain,0.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+251,images/f6dff8634c2892c0c3de08f20424e1e3--roman-emperor-fate-stay-night.jpg,f6dff8634c2892c0c3de08f20424e1e3--roman-emperor-fate-stay-night.jpg,nero,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+252,images/f8f1e4e432ce124ba0f0e032c0b86925.jpg,f8f1e4e432ce124ba0f0e032c0b86925.jpg,hans,1.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+253,images/falegrandade-ah-na-pedragon-alter-saber-alter-6750411.png,falegrandade-ah-na-pedragon-alter-saber-alter-6750411.png,salter,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+254,images/False_Assassin.jpg,False_Assassin.jpg,kojiro,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+255,images/Fappynew1.png,Fappynew1.png,cursed_arm,0.0,0.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+256,images/fate-grand-order-4fba2df8079640b3af65f15fec7ce0811451782072_full.jpg,fate-grand-order-4fba2df8079640b3af65f15fec7ce0811451782072_full.jpg,arunja,1.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+257,images/fate-grand-order-caster-fate-extra-female-animated-wallpaper.jpg,fate-grand-order-caster-fate-extra-female-animated-wallpaper.jpg,tamamo,0.0,0.0,0.0,1,1.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+258,images/Fate-Grand-Order-FGO-Monte-Cristo-Edmond-Dantes-Avenger-Cosplay-Costume-With-Cloak-COSPLAYONSEN-Full-Set.jpg_640x640.jpg,Fate-Grand-Order-FGO-Monte-Cristo-Edmond-Dantes-Avenger-Cosplay-Costume-With-Cloak-COSPLAYONSEN-Full-Set.jpg_640x640.jpg,dantes,0.0,0.0,1.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+259,images/fate-grand-order-sakura-saber-female-holding-wallpaper.jpg,fate-grand-order-sakura-saber-female-holding-wallpaper.jpg,okita,1.0,0.0,1.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+260,images/fate-grand-order-sakura-saber-katana-pink-hair-anime-12515.jpg,fate-grand-order-sakura-saber-katana-pink-hair-anime-12515.jpg,okita,1.0,0.0,1.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+261,images/Fate-Stay-Night-Unlimited-Blade-Works-Saber.Sony-Xperia-Z-wallpaper-1080x1920.jpg,Fate-Stay-Night-Unlimited-Blade-Works-Saber.Sony-Xperia-Z-wallpaper-1080x1920.jpg,saber,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+262,images/FateGrand_Order_Okita_Souji_Cosplay_Wig_4_1024x1024.jpg,FateGrand_Order_Okita_Souji_Cosplay_Wig_4_1024x1024.jpg,okita,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+263,images/FateGrand_Order_Tristan_Cosplay_Wig_2_1024x1024.jpg,FateGrand_Order_Tristan_Cosplay_Wig_2_1024x1024.jpg,tristan,1.0,1.0,1.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+264,images/Fate_Grand_Order_-_Caster_Gilles_de_Rais_Noble_Phantasm.jpg,Fate_Grand_Order_-_Caster_Gilles_de_Rais_Noble_Phantasm.jpg,giles,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+265,images/Fate_Series_anime_Type_Moon_Saber_Fate_Zero_Fate_Stay_Night_sword_anime_girls-205762.jpg!d,Fate_Series_anime_Type_Moon_Saber_Fate_Zero_Fate_Stay_Night_sword_anime_girls-205762.jpg!d,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+266,images/fgo_jacktheripper_fanart_by_duckwai_dbmrzk1-pre.jpg,fgo_jacktheripper_fanart_by_duckwai_dbmrzk1-pre.jpg,jack,0.0,0.0,1.0,1,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+267,images/Gawain1.png,Gawain1.png,gawain,0.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+268,images/gi2yk7C.jpg,gi2yk7C.jpg,jeane,0.0,0.0,0.0,0,0.0,1,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+269,images/hardika-bayu-king-hassan-hardika-bayu3.jpg,hardika-bayu-king-hassan-hardika-bayu3.jpg,hassan,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+270,images/Hassan_serenity.png,Hassan_serenity.png,serenity,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+271,images/Heroicarjuna.png,Heroicarjuna.png,arunja,1.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+272,images/hqdefault (1).jpg,hqdefault (1).jpg,cursed_arm,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+273,images/hqdefault (2).jpg,hqdefault (2).jpg,cleo,1.0,0.0,0.0,0,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+274,images/hqdefault (3).jpg,hqdefault (3).jpg,shunten,0.0,0.0,0.0,0,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+275,images/hqdefault.jpg,hqdefault.jpg,giles,0.0,1.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+276,images/images (1).jpg,images (1).jpg,gawain,0.0,0.0,0.0,0,1.0,1,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+277,images/images (10).jpg,images (10).jpg,giles,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+278,images/images (11).jpg,images (11).jpg,medea,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+279,images/images (12).jpg,images (12).jpg,medea,0.0,0.0,1.0,0,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+280,images/images (13).jpg,images (13).jpg,cu_beserker,0.0,1.0,0.0,0,0.0,1,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+281,images/images (14).jpg,images (14).jpg,cu_beserker,0.0,1.0,0.0,1,0.0,1,0.0,0.0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+282,images/images (15).jpg,images (15).jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+283,images/images (16).jpg,images (16).jpg,okita,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+284,images/images (17).jpg,images (17).jpg,kojiro,0.0,0.0,0.0,0,1.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+285,images/images (18).jpg,images (18).jpg,serenity,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+286,images/images (19).jpg,images (19).jpg,serenity,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+287,images/images (2).jpg,images (2).jpg,gawain,0.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+288,images/images (20).jpg,images (20).jpg,serenity,0.0,0.0,0.0,1,1.0,1,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+289,images/images (21).jpg,images (21).jpg,serenity,0.0,0.0,0.0,1,1.0,1,0.0,0.0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+290,images/images (22).jpg,images (22).jpg,arash,0.0,1.0,1.0,0,1.0,0,1.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+291,images/images (23).jpg,images (23).jpg,arash,0.0,1.0,1.0,1,1.0,0,1.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+292,images/images (24).jpg,images (24).jpg,cleo,1.0,0.0,0.0,1,0.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+293,images/images (25).jpg,images (25).jpg,scatthach,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+294,images/images (26).jpg,images (26).jpg,liz,1.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+295,images/images (27).jpg,images (27).jpg,lancelot,0.0,0.0,0.0,0,1.0,0,1.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+296,images/images (28).jpg,images (28).jpg,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+297,images/images (29).jpg,images (29).jpg,nero,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+298,images/images (3).jpg,images (3).jpg,salter,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+299,images/images (30).jpg,images (30).jpg,nero,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+300,images/images (4).jpg,images (4).jpg,salter,0.0,1.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+301,images/images (5).jpg,images (5).jpg,jalter,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+302,images/images (6).jpg,images (6).jpg,robin,1.0,0.0,1.0,0,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+303,images/images (7).jpg,images (7).jpg,robin,0.0,0.0,1.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+304,images/images (8).jpg,images (8).jpg,robin,0.0,0.0,1.0,1,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+305,images/images (9).jpg,images (9).jpg,atalante,0.0,0.0,1.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+306,images/images.jpg,images.jpg,saber,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+307,images/Ishtar_1stage.png,Ishtar_1stage.png,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+308,images/ishtar_and_her_noble_phantasm_by_craytm-dcgjdb0.jpg,ishtar_and_her_noble_phantasm_by_craytm-dcgjdb0.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+309,images/Jack3.png,Jack3.png,jack,1.0,0.0,0.0,1,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+310,images/Jeanna.png,Jeanna.png,jeane,0.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+311,images/JeanneAlter1.png,JeanneAlter1.png,jalter,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+312,images/JeanneAlter2.png,JeanneAlter2.png,jalter,0.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+313,images/JeanneAlter3.png,JeanneAlter3.png,jalter,0.0,1.0,0.0,0,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+314,images/JeanneAlter4.png,JeanneAlter4.png,jalter,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+315,images/Joan.of.Arc.(Fate.Apocrypha).full.1864903.jpg,Joan.of.Arc.(Fate.Apocrypha).full.1864903.jpg,jeane,1.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+316,images/Joan.of.Arc.(Fate.Apocrypha).full.1952910.jpg,Joan.of.Arc.(Fate.Apocrypha).full.1952910.jpg,jeane,0.0,0.0,0.0,0,0.0,1,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+317,images/Karna1.png,Karna1.png,karna,0.0,0.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+318,images/Karna3.png,Karna3.png,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+319,images/karna_fgo_wallpaper_by_little_cloe_dbym18e-fullview.jpg,karna_fgo_wallpaper_by_little_cloe_dbym18e-fullview.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+320,images/king888.jpg,king888.jpg,hassan,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+321,images/kisspng-fate-stay-night-archer-fate-extra-atalanta-fate-gr-fate-apocrypha-5b1606ec368337.3453032615281702202233.jpg,kisspng-fate-stay-night-archer-fate-extra-atalanta-fate-gr-fate-apocrypha-5b1606ec368337.3453032615281702202233.jpg,atalante,0.0,0.0,1.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+322,images/Kojironew1.png,Kojironew1.png,kojiro,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+323,images/LancelotS1.png,LancelotS1.png,lancelot,0.0,0.0,0.0,0,0.0,1,1.0,0.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+324,images/Lancercardborder1.png,Lancercardborder1.png,cu_lancer,0.0,0.0,0.0,0,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+325,images/large.jpg,large.jpg,oz,1.0,0.0,0.0,1,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+326,images/LkHt0q8.jpg,LkHt0q8.jpg,giles,0.0,0.0,0.0,1,1.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+327,images/lyziqi-chen-.jpg,lyziqi-chen-.jpg,jeane,1.0,0.0,0.0,0,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+328,images/maxresdefault (1).jpg,maxresdefault (1).jpg,merlin,1.0,1.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+329,images/maxresdefault (10).jpg,maxresdefault (10).jpg,hans,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+330,images/maxresdefault (11).jpg,maxresdefault (11).jpg,tamamo,1.0,0.0,0.0,1,1.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+331,images/maxresdefault (12).jpg,maxresdefault (12).jpg,tamamo,1.0,0.0,0.0,1,1.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+332,images/maxresdefault (13).jpg,maxresdefault (13).jpg,tamamo,1.0,0.0,0.0,1,1.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+333,images/maxresdefault (14).jpg,maxresdefault (14).jpg,arunja,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+334,images/maxresdefault (2).jpg,maxresdefault (2).jpg,giles,0.0,0.0,0.0,1,0.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+335,images/maxresdefault (3).jpg,maxresdefault (3).jpg,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+336,images/maxresdefault (4).jpg,maxresdefault (4).jpg,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+337,images/maxresdefault (5).jpg,maxresdefault (5).jpg,tristan,1.0,0.0,0.0,1,0.0,0,0.0,1.0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+338,images/maxresdefault (6).jpg,maxresdefault (6).jpg,hassan,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+339,images/maxresdefault (7).jpg,maxresdefault (7).jpg,cursed_arm,0.0,0.0,0.0,1,0.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+340,images/maxresdefault (8).jpg,maxresdefault (8).jpg,cursed_arm,0.0,1.0,0.0,1,0.0,1,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+341,images/maxresdefault (9).jpg,maxresdefault (9).jpg,nitocris,0.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+342,images/maxresdefault.jpg,maxresdefault.jpg,merlin,1.0,0.0,0.0,0,1.0,0,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+343,images/Medea1.jpg,Medea1.jpg,medea,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+344,images/Merlin.(Fate.stay.night).full.2065510.jpg,Merlin.(Fate.stay.night).full.2065510.jpg,merlin,1.0,0.0,0.0,0,0.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+345,images/Merlin.(Fate.stay.night).full.2086786.jpg,Merlin.(Fate.stay.night).full.2086786.jpg,merlin,1.0,0.0,0.0,0,1.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+346,images/Merlin_d.jpg,Merlin_d.jpg,merlin,1.0,0.0,0.0,0,1.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+347,images/miyamoto-musashi-saber-fate-grand-order-katana-blonde-smiling-anime-12612.jpg,miyamoto-musashi-saber-fate-grand-order-katana-blonde-smiling-anime-12612.jpg,musashi,0.0,1.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+348,images/Mj2M9L6.jpg,Mj2M9L6.jpg,tamamo,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+349,images/mnOsCg6.jpg,mnOsCg6.jpg,salter,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+350,images/mOJXH2t.jpg,mOJXH2t.jpg,jalter,0.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+351,images/Mordred1.png,Mordred1.png,mordred,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+352,images/mordred_by_ineonbeati_dbqgc5m-fullview.jpg,mordred_by_ineonbeati_dbqgc5m-fullview.jpg,mordred,0.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+353,images/MusashiStage01.png,MusashiStage01.png,musashi,0.0,1.0,0.0,1,0.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+354,images/MUswMFa.jpg,MUswMFa.jpg,arash,1.0,0.0,1.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+355,images/Nero1.png,Nero1.png,nero,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+356,images/NitocrisHD1.png,NitocrisHD1.png,nitocris,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+357,images/Okita_Stage_1.png,Okita_Stage_1.png,okita,1.0,1.0,0.0,0,0.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+358,images/OmHOZ3x5.jpg,OmHOZ3x5.jpg,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+359,images/Ozy2.jpg,Ozy2.jpg,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+360,images/Ozyman1.png,Ozyman1.png,oz,0.0,0.0,0.0,1,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+361,images/Ozyman2.png,Ozyman2.png,oz,1.0,0.0,0.0,0,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+362,images/Portrait_Servant_154_1.png,Portrait_Servant_154_1.png,hassan,0.0,0.0,0.0,1,1.0,0,0.0,0.0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+363,images/QEuF8r8.jpg,QEuF8r8.jpg,arash,0.0,1.0,1.0,0,1.0,0,0.0,0.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+364,images/Rama2.png,Rama2.png,rama,0.0,1.0,0.0,0,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+365,images/Red.Lancer.full.1970985.jpg,Red.Lancer.full.1970985.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+366,images/Redlancer.jpg,Redlancer.jpg,liz,1.0,1.0,0.0,1,0.0,0,0.0,0.0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+367,images/RiderOzymandiasStage2.png,RiderOzymandiasStage2.png,oz,1.0,0.0,0.0,1,1.0,0,1.0,0.0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+368,images/Robin1.png,Robin1.png,robin,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+369,images/Saber.(Fate.stay.night).600.1451709.jpg,Saber.(Fate.stay.night).600.1451709.jpg,saber,0.0,0.0,0.0,0,1.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+370,images/Saber.(Gawain).full.2193476.png,Saber.(Gawain).full.2193476.png,gawain,0.0,0.0,1.0,0,1.0,0,1.0,0.0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+371,images/SaberRamaStage1.png,SaberRamaStage1.png,rama,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+372,images/SaberRamaStage2.png,SaberRamaStage2.png,rama,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+373,images/Saizo_Unmasked.jpg,Saizo_Unmasked.jpg,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,0.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+374,images/Sakura.Saber.full.1945615.jpg,Sakura.Saber.full.1945615.jpg,okita,1.0,0.0,1.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+375,images/Sakura.Saber.full.1951383.jpg,Sakura.Saber.full.1951383.jpg,okita,1.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+376,images/Sakura.Saber.full.2000393.jpg,Sakura.Saber.full.2000393.jpg,okita,1.0,0.0,1.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+377,images/Scathach1.png,Scathach1.png,scatthach,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+378,images/Sekishusai3.jpg,Sekishusai3.jpg,kojiro,0.0,0.0,0.0,0,1.0,1,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+379,images/static-assets-upload5567280449574162563.jpg,static-assets-upload5567280449574162563.jpg,merlin,1.0,0.0,0.0,1,1.0,0,1.0,0.0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+380,images/Tamamocaster.png,Tamamocaster.png,tamamo,0.0,0.0,0.0,1,1.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+381,images/Tamamocaster4.png,Tamamocaster4.png,tamamo,0.0,0.0,0.0,1,1.0,0,0.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+382,images/tamamo_no_mae_by_rimuu-d9facpc.png,tamamo_no_mae_by_rimuu-d9facpc.png,tamamo,0.0,0.0,0.0,1,1.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+383,images/thumb-1920-753592.png,thumb-1920-753592.png,okita,1.0,0.0,1.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+384,images/thumb-1920-764352.png,thumb-1920-764352.png,jalter,0.0,0.0,0.0,1,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+385,images/thumb-1920-785420.png,thumb-1920-785420.png,jalter,0.0,0.0,0.0,1,0.0,1,0.0,1.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+386,images/thumb-350-792294.jpg,thumb-350-792294.jpg,tamamo,0.0,0.0,0.0,0,1.0,1,0.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+387,images/thumb-350-820918.jpg,thumb-350-820918.jpg,salter,0.0,0.0,0.0,1,0.0,1,0.0,0.0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+388,images/thumb-350-843188.png,thumb-350-843188.png,okita,1.0,0.0,1.0,0,1.0,0,0.0,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+389,images/tim-lochner-fgo.jpg,tim-lochner-fgo.jpg,nitocris,0.0,0.0,0.0,1,0.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+390,images/tumblr_p5lxs1rKod1wquyb7o1_1280.png,tumblr_p5lxs1rKod1wquyb7o1_1280.png,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+391,images/UPq95lD.png,UPq95lD.png,vlad,0.0,0.0,0.0,1,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+392,images/Uproarnew.png,Uproarnew.png,emiya_assassin,0.0,1.0,0.0,1,0.0,0,0.0,1.0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+393,images/Vlad1.png,Vlad1.png,vlad,0.0,0.0,0.0,1,1.0,0,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+394,images/Vlad4.png,Vlad4.png,vlad,0.0,0.0,0.0,1,1.0,1,0.0,1.0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+395,images/wallhaven-396093.png,wallhaven-396093.png,mordred,0.0,1.0,0.0,0,0.0,0,0.0,1.0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+396,images/wallhaven-400502.jpg,wallhaven-400502.jpg,atalante,0.0,0.0,1.0,1,0.0,0,1.0,0.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+397,images/wallhaven-472565.jpg,wallhaven-472565.jpg,ishtar,1.0,0.0,0.0,1,0.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+398,images/Whore_of_babylon_1.jpg,Whore_of_babylon_1.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+399,images/xiq4.png,xiq4.png,nero,1.0,1.0,0.0,0,0.0,0,1.0,0.0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+400,images/XlwdVpg.jpg,XlwdVpg.jpg,karna,0.0,1.0,0.0,1,0.0,0,1.0,0.0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+401,images/Xuanzang1.png,Xuanzang1.png,xuanzang,1.0,0.0,0.0,0,0.0,0,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+402,images/Y0fJKeU.jpg,Y0fJKeU.jpg,nitocris,1.0,0.0,1.0,0,1.0,1,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+403,images/yNz6owd.jpg,yNz6owd.jpg,cleo,1.0,0.0,1.0,0,1.0,0,1.0,0.0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+404,images/ZeroCaster.png,ZeroCaster.png,giles,0.0,1.0,0.0,0,0.0,1,0.0,0.0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+405,images/__artoria_pendragon_and_saber_fate_grand_order_and_etc_drawn_by_mirea__0195ad0980d81a8eb26097cb5e42ad7b.jpg,__artoria_pendragon_and_saber_fate_grand_order_and_etc_drawn_by_mirea__0195ad0980d81a8eb26097cb5e42ad7b.jpg,saber,0.0,0.0,0.0,0,1.0,0,1.0,1.0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+406,images/__fgo_ishtar___by_tenmuki_dc86cqu-pre.jpg,__fgo_ishtar___by_tenmuki_dc86cqu-pre.jpg,ishtar,1.0,0.0,0.0,0,1.0,0,1.0,0.0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+407,images/__xuanzang_fate_grand_order_and_fate_series_drawn_by_kojima_blue_stardust__sample-0f73ea2f380d3d5d4c2e9283ce8483d5.jpg,__xuanzang_fate_grand_order_and_fate_series_drawn_by_kojima_blue_stardust__sample-0f73ea2f380d3d5d4c2e9283ce8483d5.jpg,xuanzang,1.0,0.0,0.0,0,0.0,1,1.0,0.0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
